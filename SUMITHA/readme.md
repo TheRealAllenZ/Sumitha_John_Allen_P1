@@ -17,7 +17,7 @@ c) Price-to-sales ratio analysis for last available annual financials.
 
 Consumer Cyclical (15) and Consumer Defensive sector (11) companies were the largest participators this boycott.
 
-**FB price analysis**
+## **FB price analysis**
 
 Short-term: Immediate effect
 
@@ -61,7 +61,7 @@ Unlike the consumer cyclical, consumer defensive stocks prices were not very sen
 
 We can observe that sectors like Healthcare, Tech, Finance and Mix (other) did not show significant correlation to FB price movement during the boycott period.
 
-## Healthcare Sector 
+### Healthcare Sector 
 * Steady Growth Sector
 * Lower Volatility 
 * Associated with heatlhcare service providers, pharmaceuticals, wholesale, distribution companies, and pharmacy store chain
@@ -69,7 +69,7 @@ We can observe that sectors like Healthcare, Tech, Finance and Mix (other) did n
 ![Healthcare sector price movement during the last week of June and beginning of July](Images/heathcare_0607.png)
 
 
-## Tech Sector  
+### Tech Sector  
 * Steady Growth Sector
 * High Volatility 
 * Associated with software and information technology services, manufacturer, also includes a telecom.
@@ -78,14 +78,14 @@ We can observe that sectors like Healthcare, Tech, Finance and Mix (other) did n
 
 *UPWK was removed from short term analysis as its wild price movements skewed the chart*
 
-## Financial Sector 
+### Financial Sector 
 * Significant Volitality during financial crisis
 * Includes banking & mortgage finance companies
 
 ![Financial sector price movement during the last week of June and beginning of July](Images/fin_0607.png)
 
 
-## Mixed Sector 
+### Mixed Sector 
 * including Energy, Basic Materials
 
 ![Mix sector price movement during the last week of June and beginning of July](Images/mix_0607.png)
