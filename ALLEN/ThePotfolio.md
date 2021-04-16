@@ -32,5 +32,5 @@ There are 3 parts to this portfolio overview at this stage of the project:
 
 * [File 9- Dashboard in PDF](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/536f2fa77d960a94dff520a9fb6ffa2d9928358b/ALLEN/FILES/FB%20Dashboard.pdf)
 
-
+![dashboard](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/07c0b7f8f5f8f0fafb074df010ad13e4d85225e4/ALLEN/FILES/dashboard.gif)
 
