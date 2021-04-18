@@ -11,7 +11,7 @@ There are 3 parts to this portfolio overview at this stage of the project:
 
 ### FILES 
 
-* [File 1 - Powerpoint Slides](ALLEN/FILES/Portfolio.pdf)
+* [File 1 - Powerpoint Slides](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/b223067c29fcc76af2eda9ecf96f29461f9ad59b/ALLEN/FILES/Portfolio.pdf)
 * [File 2- CHARTING BY SECTOR](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/a8513a0e9cb4268c598b55ea5d51ffad1b29ee6f/ALLEN/FILES/(Project)%20CHARTING%20BY%20SECTOR.ipynb)
  
 ***Note:*** this file doesn't render fully on GitHub. You can expand viewability by clicking on the <u>***External Viewer***</u> link 
