@@ -21,8 +21,8 @@ There are 3 parts to this portfolio overview at this stage of the project:
 <br/>
 <br/>
 * [File 3-CHARTING BY SECTOR PDF for convenience](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/a8513a0e9cb4268c598b55ea5d51ffad1b29ee6f/ALLEN/FILES/(Project)%20Charting%20by%20Sector.pdf) 
-* [File 4- 2020 numbers](ALLEN/FILES/closing_2020sp.csv)
-* [File 5 - 2019 number](ALLEN/FILES/closingprice2019withSP.csv)
+* [File 4- 2020 numbers](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/cb999d3c8d8fc8d5c073d9f5ecffc90cf8124bd3/ALLEN/FILES/closing_2020sp.csv)
+* [File 5 - 2019 number](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/cb999d3c8d8fc8d5c073d9f5ecffc90cf8124bd3/ALLEN/FILES/closingprice2019withSP.csv)
 * [File 6 - Portfolio base file #1](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/a8513a0e9cb4268c598b55ea5d51ffad1b29ee6f/ALLEN/FILES/Portfolio(baseFile1).ipynb)
 * [File 7 - Portfolio base file #2](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/a8513a0e9cb4268c598b55ea5d51ffad1b29ee6f/ALLEN/FILES/Portfolio(baseFile2).ipynb)
 * [File 8 - FINAL DASHBOARD](https://github.com/TheRealAllenZ/Sumitha_John_Allen_P1/blob/a8513a0e9cb4268c598b55ea5d51ffad1b29ee6f/ALLEN/FILES/DASHBOARD%20-.ipynb)
